@@ -1,3 +1,7 @@
 def fizzbuzz (number)
-  nil
+  if number%3 == 0 do
+    'Fizz'
+  else
+    nil
+  end
 end
